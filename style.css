@@ -1,0 +1,76 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* slider  */
+.overly {
+    filter: brightness(40%);
+}
+
+.custom-bg {
+    background: #F4FAFD;
+}
+
+.carousel-custom-items {
+    top: 35%;
+}
+
+/* Btn Hover Effect */
+.btn.bg-sky:hover {
+    background-color: #2aabf5;
+}
+
+/* Coustome COde */
+.btn-outline-sky {
+    color: #289BDE;
+    border: 1px solid #289BDE;
+    padding: 12px 20-px;
+}
+
+.text-sky {
+    color: #289BDE;
+}
+
+.bg-sky {
+    background: #289BDE;
+}
+
+.bg-gray {
+    background: #4A4A4A;
+}
+
+.text-gray {
+    color: #4A4A4A;
+}
+
+
+/* about-us section */
+
+#about-us {
+    padding: 40px 0;
+}
+
+#about-us img {
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+#about-us h2 {
+    font-weight: bold;
+}
+
+#about-us p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#about-us .btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    background: #289BDE;
+}
